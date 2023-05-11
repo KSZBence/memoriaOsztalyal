@@ -1,0 +1,15 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+main img{
+    max-width: 200px;
+    cursor: pointer;        
+}
+
+
+
